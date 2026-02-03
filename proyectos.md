@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Proyectos
 ---
 # Mis Proyectos Técnicos 🛠️
