@@ -1,9 +1,12 @@
 title: My Data Life Portfolio
 description: Analista de Datos | Portfolio & Research
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
-
+header_pages:
+  - index.md
+  - proyectos.md
+  - investigaciones.md
 # Agrega esto para evitar que el sistema busque metadatos inexistentes
 repository: extractor-neural/mydatalife.github.io
